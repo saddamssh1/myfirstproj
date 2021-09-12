@@ -1,0 +1,7 @@
+organization=productms
+projectKey=saddamssh1_productms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=saddamssh1_productms
+ceTaskId=AXvQI6cOqTqxQeo4bjrw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvQI6cOqTqxQeo4bjrw
